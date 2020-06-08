@@ -1,2 +1,6 @@
 # Application Development with Go  
-Since I discovered Go, I fall even more in love with it every time I use it. It's such a beautiful clear and simple language and exactly what I've been looking for in programming.
+Go is one of the most beautiful programming languages existing. It's clear, simple and fast.
+
+Here you'll find some small programs I created or copied while learning Go.
+
+Newsfeeder: Small example of how to put together a REST API in Go using the Gin web framework.  
