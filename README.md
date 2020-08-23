@@ -10,14 +10,15 @@ Small example of how to put together a REST API in Go using the Gin web framewor
 2. Open a browser and call the following URL http://localhost:8080/ping
 3. Test it with the browser console or something like postman,  
     e.g. w/ a `POST` request
-```await fetch ("/newsfeed", {  
+```
+await fetch ("/newsfeed", {
             method: "POST",  
             headers: {'content-type' : 'application/json'},  
             body: JSON.stringify({  
                 title: 'Here comes the sun',  
                 post: 'Sun, sun, sun, here it comes'  
             })  
-         })
+           })
 ``` 
 4. Have a look at the logs!
 
